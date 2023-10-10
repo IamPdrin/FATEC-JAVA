@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class AA_Main {
     public static void main(String[] args) throws Exception {
         Scanner ler = new Scanner(System.in);
         int escolha = 0;
