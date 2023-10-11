@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class EX1 {
     public static void main(String[] args) throws Exception {
-        int idadee;
-        Scanner leer = new Scanner(System.in);
+        int idade;
+        Scanner ler = new Scanner(System.in);
         System.out.println("Digite sua idade: ");
-        idade = leer.nextInt();
+        idade = ler.nextInt();
         ler.close();
         
         if (idade < 18){
