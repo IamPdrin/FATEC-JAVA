@@ -34,4 +34,5 @@ public class EX7 {
         
         System.out.println("\n");
     }
+    
 }

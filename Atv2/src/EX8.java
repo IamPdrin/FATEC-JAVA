@@ -34,4 +34,5 @@ public class EX8 {
         System.out.println("O número mais frequente é " + numeroMaisFrequente + " com frequência " + frequenciaMaisFrequente);
 
     }
+    
 }

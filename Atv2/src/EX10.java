@@ -28,4 +28,5 @@ public class EX10 {
 	    System.out.println("A soma dos dados foi igual a 7, " + contador + " vezes.");
 
     }
+	
 }

@@ -21,4 +21,5 @@ public class EX6 {
         }
         System.out.println("\n");
     }
+    
 }

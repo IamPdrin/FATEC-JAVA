@@ -12,7 +12,7 @@ public class EX1 {
 	for(int c=0; c<=9; c++){
 		if(aleatorioss[c]%2 == 0) {
 		    System.out.println(aleatorioss[c]);
-	    }
+		}
     	}
 
     }

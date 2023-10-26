@@ -26,4 +26,5 @@ public class EX5 {
         System.out.println("Dos 30 numeros, " + contador + " sao impares.");
 
     }
+    
 }

@@ -17,4 +17,5 @@ public class EX3 {
 
         System.out.println("Media final: " + (soma / 20));
     }
+    
 }

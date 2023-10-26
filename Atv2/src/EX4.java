@@ -18,4 +18,6 @@ public class EX4 {
         Arrays.sort(aleatorios);
         System.out.println("Maior numero: " + aleatorios[0] + "\nMenor numero: " + aleatorios[14]);
     }
+    
 }
+
