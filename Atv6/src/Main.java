@@ -18,6 +18,5 @@ public class Main {
         System.out.println("Função de calcular o valor para encher o tanque: \n");
         //Calculando o valor para encher o tanque
         car1.abastecer(5.75);
-        
     }
 }
