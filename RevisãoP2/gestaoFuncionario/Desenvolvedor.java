@@ -10,6 +10,7 @@ public class Desenvolvedor extends Funcionario {
 	//Polimorfismo(Sobrescrita):
 	@Override
 	void Trabalhar () {
+		//Encapsulamento (Atributo privado criado na classe pai necessita de getters e setters para ser acessado):
 		System.out.println("O desenvolvedor " + getNome() + " esta programando!");
 	}
 }

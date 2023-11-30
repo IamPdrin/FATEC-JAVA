@@ -9,6 +9,7 @@ public class Gerente extends Funcionario{
 	//Polimorfismo (Sobrescrita):
 	@Override
 	void Trabalhar () {
+		//Encapsulamento (Atributo privado criado na classe pai necessita de getters e setters para ser acessado):
 		System.out.println("O Gerente " + getNome() + " está trabalhando..");
 	}
 	

@@ -1,5 +1,5 @@
 package gestaoFuncionario;
-//Classe pai (contém os atributos e métodos em sua forma primitiva):
+//Abstração: Classe pai (contém os principais atributos e métodos de um funcionário):
 public class Funcionario {
 	private String nome;
 	private int idade;
